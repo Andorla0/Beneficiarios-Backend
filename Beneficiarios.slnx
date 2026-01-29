@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Beneficiarios.API/Beneficiarios.API.csproj" />
+  <Project Path="Beneficiarios.Application/Beneficiarios.Application.csproj" />
+  <Project Path="Beneficiarios.Domain/Beneficiarios.Domain.csproj" />
+  <Project Path="Beneficiarios.Infrastructure/Beneficiarios.Infrastructure.csproj" />
+</Solution>

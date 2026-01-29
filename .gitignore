@@ -1,0 +1,112 @@
+# Visual Studio cache/options
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Visual Studio user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# Local settings
+appsettings.local.json
+appsettings.*.local.json
+appsettings.Development.local.json
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# NuGet Package Manager
+.nuget/
+
+# Packages
+packages/
+.packages/
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Logs
+logs/
+*.log
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Build output
+bin/
+obj/
+/publish/
+/PublishProfiles/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# Coverage reports
+/coverage/
+/codecover/
+
+
+# JetBrains Rider cache
+.idea_modules/
+
+# Misc
+.config/
+.settings/
+
+# Visual Studio temporary files
+.vs/
+.vscode/
+
+# Solution-specific files
+.sln.GhostDoc.xml
