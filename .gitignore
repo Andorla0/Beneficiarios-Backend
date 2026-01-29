@@ -110,3 +110,4 @@ obj/
 
 # Solution-specific files
 .sln.GhostDoc.xml
+Beneficiarios.API/Beneficiarios.API.http
