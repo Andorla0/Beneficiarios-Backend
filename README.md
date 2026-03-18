@@ -1,6 +1,6 @@
 # Beneficiarios API (.NET)
 
-API para gestionar Beneficiarios y listar Documentos de Identidad.
+API para gestionar Beneficiarios y listar sus Documentos de Identidad.
 
 ## Requisitos
 - .NET 10 SDK
